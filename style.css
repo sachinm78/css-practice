@@ -42,10 +42,25 @@ header {
     color: white;
 }
 
+.section-one-link:hover { 
+    color: red;
+}
+
+.section-one-link:focus {
+    color: purple;
+}
+
 .section-two-link { 
     color: black;
 }
 
+.section-two-link:hover { 
+    color: red;
+}
+
+.section-two-link:focus {
+    color: purple;
+}
 
 /* button styles */
 
